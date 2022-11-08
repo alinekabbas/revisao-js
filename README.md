@@ -1,12 +1,12 @@
-# Revisao-js
-# Principais Conceitos abordados
+# Revisão-js
+# Principais conceitos abordados
 
 ## Condicionais
 
 - if
 - switch case
 
-### Expressões condicionais
+## Expressões condicionais
 
 - ternary / ternário
 - short circuit / curto-circuito
@@ -35,11 +35,12 @@
 - espalhamento
 - métodos destrutivos
 
-### Métodos importantes de array
+## Métodos importantes de array
 
 - push e unshift (destrutivos)
 - pop e shift (destrutivos)
 - splice (destrutivo)
+- reduce (destrutivo)
 - map
 - filter
 - indexOf e includes
